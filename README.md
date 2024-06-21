@@ -5,7 +5,7 @@
 
 I am thrilled to share another fascinating project I worked on during my internship at CodeAlpha! 🎉
 
-### Task 3: Handwritten Character Recognition
+### Handwritten Character Recognition
 
 📊 **Project Title:** Handwritten Character Recognition System
 
