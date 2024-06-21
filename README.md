@@ -1,79 +1,54 @@
-# Disease Prediction from Medical Data
+# Handwritten Character Recognition System
 
 ## Project Overview
-🚀 Thrilled to Share My Latest Internship Project at CodeAlpha! 🚀
+🚀 Exciting Project Update from My Internship at CodeAlpha! 🚀
 
-I'm excited to present one of the most impactful projects I worked on during my internship at CodeAlpha!
+I am thrilled to share another fascinating project I worked on during my internship at CodeAlpha! 🎉
 
-### Disease Prediction from Medical Data
+### Task 3: Handwritten Character Recognition
 
-📊 **Project Title:** Disease Prediction from Medical Data
+📊 **Project Title:** Handwritten Character Recognition System
 
-In this project, I developed a predictive model to determine the likelihood of various diseases based on medical data, including symptoms and patient history. This project holds great potential for improving early diagnosis and personalized healthcare.
+As part of my internship, I developed a cutting-edge handwritten character recognition system capable of recognizing various handwritten characters and alphabets. This project has the potential to extend its capabilities to recognize entire words or sentences, showcasing the immense possibilities of machine learning in text recognition.
 
 ## Project Highlights
 🌟 **Project Highlights:**
-- **Objective:** Predict the likelihood of diseases using medical data to aid in early diagnosis and treatment.
-- **Data Used:** Labeled medical records encompassing patient history, symptoms, and other relevant medical data.
-- **Algorithms Implemented:**
-  - K Nearest Neighbour (KNN)
-  - Random Forest Classifier
-  - Decision Tree Classifier
-  - Support Vector Machine (SVM)
+1. **Objective:** Develop a system to accurately recognize handwritten characters, with future extensions to words and sentences.
+2. **Data Used:** A diverse dataset of handwritten characters to train and validate the model.
+3. **Algorithms Implemented:**
+   - Sequential Model (Deep Learning)
 
 ## Methodology
 🔍 **Methodology:**
 1. **Data Preprocessing:**
-   - Cleaned and normalized the medical data to ensure accuracy.
-   - Managed missing values and encoded categorical variables.
-2. **Feature Selection:** 
-   - Identified key features influencing disease prediction to enhance model performance.
-3. **Model Training and Evaluation:**
-   - Split the data into training and testing sets.
-   - Applied cross-validation to ensure robustness.
-   - Evaluated each model's performance using metrics like accuracy, precision, recall, and F1 score.
+   - Used LabelBinarizer to convert categorical labels into binary format, facilitating efficient training.
+   - Normalized and augmented the dataset to improve model generalization.
+2. **Model Architecture:**
+   - Built a Sequential model using deep learning frameworks, designed to handle the complexities of character recognition.
+3. **Training and Evaluation:**
+   - Split the dataset into training and validation sets.
+   - Trained the model using multiple epochs to ensure optimal performance.
 
 ## Results
 📈 **Results:**
-Here’s a snapshot of the performance metrics for the models used:
-
-- **K Nearest Neighbour (KNN):**
-  - Accuracy: 71%
-  - Precision: 75%
-  - Recall: 66%
-  - F1 Score: 70%
-
-- **Random Forest Classifier:**
-  - Accuracy: 80%
-  - Precision: 87%
-  - Recall: 78%
-  - F1 Score: 82%
-
-- **Decision Tree Classifier:**
-  - Accuracy: 73%
-  - Precision: 82%
-  - Recall: 69%
-  - F1 Score: 75%
-
-- **Support Vector Machine (SVM):**
-  - Accuracy: 85%
-  - Precision: 86%
-  - Recall: 84%
-  - F1 Score: 85%
+- **Loss:** 0.1593 
+- **Accuracy:** 94.00% 
+- **Validation Loss:** 0.2885 
+- **Validation Accuracy:** 90.99%
 
 ## Key Learnings
 🎯 **Key Learnings:**
-- The importance of thorough data pre-processing in medical data analysis.
-- Comparative strengths and weaknesses of various classification algorithms in disease prediction.
-- Hands-on experience with evaluating and tuning multiple machine learning models.
+- The critical role of data preprocessing and augmentation in improving model accuracy.
+- Deep understanding of Sequential models and their application in image recognition tasks.
+- The process of fine-tuning a deep learning model for optimal performance.
 
-I am deeply grateful to the CodeAlpha team for their unwavering support and guidance throughout this project. This experience has significantly enhanced my skills in data science and machine learning, especially in the healthcare domain.
+I am incredibly grateful to the CodeAlpha team for their support and mentorship throughout this project. This experience has significantly enhanced my machine learning and deep learning skills, preparing me for future challenges in the field.
 
 ## GitHub Repository
-GitHub Repository Link: [CodeAlpha Disease Prediction](https://lnkd.in/ggqZSkBU)
+GitHub Repository Link: [CodeAlpha Handwritten Character Recognition](https://lnkd.in/gFSnnWaf)
 
 ## Next Steps
 🚀 **Next Steps:**
-Refining the models further to increase prediction accuracy and exploring the integration of these models into real-world healthcare systems.
+Enhancing the model to recognize entire words and sentences, and exploring real-world applications in OCR (Optical Character Recognition) systems.
 
-Thank you, CodeAlpha, for this invaluable opportunity!
+Thank you, CodeAlpha, for this amazing opportunity!
